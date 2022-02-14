@@ -73,4 +73,12 @@
 
 
 
-**Fonte:** *Aula Git e GitHub da DIO*
+#### 		Resolvendo conflitos
+
+- ​	quando o código está diferente ao que está no GitHub:  Será necessário clonar o condigo di Git e modificar para o arquivo correto.
+- Git pull origin master ( para puxar o arquivo alterado no github). conflito de linha. terá que corrigir o conteúdo diferente.
+-  git add * ---> commit -m na atualização realizada --> git push origin master.
+
+
+
+##### **Fonte:** *Aula Git e GitHub da DIO*
